@@ -1,4 +1,5 @@
 %syntax-version=1.0.0
-%project=flipr
+%project=kbcom
 %uri=https://github.com/kboucher/kbcom-api/
 
+appschema 2023-03-08T19:03:27Z Kevin Boucher <kevin@kevinboucher.com> # Add schema for all kbcom objects.
